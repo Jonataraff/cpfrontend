@@ -1,0 +1,1116 @@
+.tesla-bank,
+.tesla-bank * {
+  box-sizing: border-box;
+}
+.tesla-bank {
+  background: #f8f9ff;
+  width: 1920px;
+  height: 3847px;
+  position: relative;
+  overflow: hidden;
+}
+.lado-esquerdo {
+  background: #f2f4fd;
+  width: 992px;
+  height: 1124px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+}
+.lado-direito {
+  background: linear-gradient(
+    220.94deg,
+    rgba(235, 56, 80, 1) 0%,
+    rgba(203, 22, 46, 1) 100%
+  );
+  width: 928px;
+  height: 1124px;
+  position: absolute;
+  left: 992px;
+  top: 1px;
+}
+.card-4 {
+  position: absolute;
+  inset: 0;
+}
+.bg {
+  background: linear-gradient(
+    167.6deg,
+    rgba(226, 59, 81, 1) 0%,
+    rgba(138, 59, 69, 1) 100%
+  );
+  border-radius: 10px;
+  width: 400px;
+  height: 233.65px;
+  position: absolute;
+  left: 1429.22px;
+  top: 443.19px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.card-3-mask {
+  width: 399.58px;
+  height: 233.65px;
+  position: static;
+}
+.bg2 {
+  background: #ed713c;
+  width: 399.58px;
+  height: 233.65px;
+  position: absolute;
+  left: 1429.22px;
+  top: 443.19px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.ellipse-2 {
+  background: #333333;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #333333;
+  border-width: 36px;
+  opacity: 0.10000000149011612;
+  width: 622.79px;
+  height: 286.98px;
+  position: absolute;
+  left: 1008.77px;
+  top: 402.35px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.ellipse-1 {
+  background: #333333;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #333333;
+  border-width: 36px;
+  opacity: 0.10000000149011612;
+  width: 622.79px;
+  height: 346.67px;
+  position: absolute;
+  left: 1720.15px;
+  top: 330.22px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+._12-24 {
+  color: #ffffff;
+  text-align: right;
+  font: 500 14px/162.7% "Inter", sans-serif;
+  position: absolute;
+  left: 1632.36px;
+  top: calc(50% - 1217.61px);
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+._2468 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "Inter", sans-serif;
+  position: absolute;
+  left: 1413.16px;
+  top: calc(50% - 1293.61px);
+  width: 43.17px;
+  height: 21.59px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.group-93 {
+  width: 43.17px;
+  height: 5.08px;
+  position: static;
+}
+.ellipse-4 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 5.08px;
+  height: 5.08px;
+  position: absolute;
+  left: 1383.69px;
+  top: 627.93px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.ellipse-3 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 5.08px;
+  height: 5.08px;
+  position: absolute;
+  left: 1359.69px;
+  top: 619.61px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.ellipse-22 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 5.08px;
+  height: 5.08px;
+  position: absolute;
+  left: 1371.69px;
+  top: 623.77px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.ellipse-12 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 5.08px;
+  height: 5.08px;
+  position: absolute;
+  left: 1347.69px;
+  top: 615.45px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.cart-o-de-cr-dito {
+  color: #ffffff;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  opacity: 0.75;
+  position: absolute;
+  left: 1364.73px;
+  top: calc(50% - 1335.66px);
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.logo {
+  width: 57.14px;
+  height: 35.32px;
+  position: static;
+}
+.vector {
+  position: absolute;
+  left: 1719.26px;
+  top: 573.04px;
+  transform: translate(-14.58px, 0px);
+  overflow: visible;
+}
+.logo-2 {
+  position: absolute;
+  left: 1701.54px;
+  top: 563px;
+  transform: translate(-18.54px, 0px);
+  overflow: visible;
+}
+.rectangle-57 {
+  background: #f7f8fd;
+  width: 401px;
+  height: 30px;
+  position: absolute;
+  left: 1387.15px;
+  top: 510.33px;
+  transform-origin: 0 0;
+  transform: rotate(29.063deg) scale(1.081, 0.912);
+}
+.group-91 {
+  position: absolute;
+  inset: 0;
+}
+.card-4-bg {
+  background: linear-gradient(
+    167.6deg,
+    rgba(226, 59, 81, 1) 0%,
+    rgba(138, 59, 69, 1) 100%
+  );
+  border-radius: 10px;
+  width: 400px;
+  height: 233.65px;
+  position: absolute;
+  left: 1104px;
+  top: 491.45px;
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+.card-4-mask {
+  width: 400px;
+  height: 233.65px;
+  position: static;
+}
+.bg3 {
+  background: #ed713c;
+  width: 400px;
+  height: 233.65px;
+  position: absolute;
+  left: 1104px;
+  top: 491.45px;
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+.ellipse-23 {
+  background: #333333;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 36px;
+  opacity: 0.10000000149011612;
+  width: 407.62px;
+  height: 286.98px;
+  position: absolute;
+  left: 971.1px;
+  top: 674.82px;
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+.ellipse-13 {
+  background: #333333;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 36px;
+  opacity: 0.07999999821186066;
+  width: 407.62px;
+  height: 286.98px;
+  position: absolute;
+  left: 1217.52px;
+  top: 258.8px;
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+._12-242 {
+  color: #ffffff;
+  text-align: right;
+  font: 500 14px "Inter", sans-serif;
+  position: absolute;
+  left: 1446.09px;
+  top: calc(50% - 1362.11px);
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+._5294 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "Inter", sans-serif;
+  opacity: 0.8999999761581421;
+  position: absolute;
+  left: 1182.27px;
+  top: calc(50% - 1264.78px);
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+.mastercard-logo {
+  width: 57.14px;
+  height: 45.61px;
+  position: static;
+}
+.vector4 {
+  position: absolute;
+  left: 1417.63px;
+  top: 413.32px;
+  transform: translate(0px, -5.35px);
+  overflow: visible;
+}
+.group {
+  position: absolute;
+  left: 1397.21px;
+  top: 416.86px;
+  transform: translate(0px, -19.78px);
+  overflow: visible;
+}
+.nikola-tesla {
+  color: #ffffff;
+  text-align: left;
+  font: 600 18px "Sora", sans-serif;
+  position: absolute;
+  left: 1148.48px;
+  top: calc(50% - 1408.16px);
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+.group2 {
+  width: 41.9px;
+  height: 27.94px;
+  position: static;
+}
+.rectangle {
+  background: radial-gradient(
+    closest-side,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(221, 220, 218, 1) 100%
+  );
+  border-radius: 5px;
+  width: 41.9px;
+  height: 27.94px;
+  position: absolute;
+  left: 1164.79px;
+  top: 584.56px;
+  transform-origin: 0 0;
+  transform: rotate(-13.738deg) scale(0.966, 1.033);
+}
+.group3 {
+  position: absolute;
+  left: 1164.85px;
+  top: 584.83px;
+  transform: translate(0px, -14.5px);
+  overflow: visible;
+}
+.abrir-uma-conta-digital-nunca-foi-t-o-simples {
+  color: #333333;
+  text-align: left;
+  font: 500 26px "Inter", sans-serif;
+  position: absolute;
+  left: 182px;
+  top: 543px;
+  width: 560px;
+  height: 31px;
+}
+.tesla-bank-banco-100-digital {
+  color: #e51d37;
+  text-align: left;
+  font: 600 64px "Sora", sans-serif;
+  position: absolute;
+  left: 182px;
+  top: 357px;
+  width: 628px;
+  height: 162px;
+}
+.rectangle-7 {
+  background: #f2f4fd;
+  width: 1920px;
+  height: 1102px;
+  position: absolute;
+  left: 0px;
+  top: 1991px;
+}
+.group4 {
+  position: absolute;
+  inset: 0;
+}
+.buttons {
+  position: absolute;
+  left: 468px;
+  top: 1324.83px;
+  overflow: visible;
+}
+.case {
+  position: absolute;
+  left: 469.49px;
+  top: 1247.36px;
+  overflow: visible;
+}
+.cameras {
+  width: 52.11px;
+  height: 7.45px;
+  position: static;
+}
+.rectangle-3 {
+  background: #e51d37;
+  border-radius: 11.32px;
+  width: 32.75px;
+  height: 2.98px;
+  position: absolute;
+  left: 601.25px;
+  top: 1263.75px;
+}
+.ellipse {
+  background: #e51d37;
+  border-radius: 50%;
+  width: 7.44px;
+  height: 7.45px;
+  position: absolute;
+  left: 645.92px;
+  top: 1261.51px;
+}
+.screen {
+  position: absolute;
+  left: 478.42px;
+  top: 1256.3px;
+  overflow: visible;
+}
+.group-74 {
+  width: 279.16px;
+  height: 604.86px;
+  position: static;
+}
+.rectangle-40 {
+  background: linear-gradient(
+    220.94deg,
+    rgba(235, 56, 80, 1) 0%,
+    rgba(203, 22, 46, 1) 100%
+  );
+  width: 279.16px;
+  height: 604.86px;
+  position: absolute;
+  left: 478.42px;
+  top: 1256.3px;
+}
+.app-features {
+  text-align: left;
+  font: 600 36px "Sora", sans-serif;
+  position: absolute;
+  left: 1003px;
+  top: 1296px;
+  width: 442px;
+  height: 31.9px;
+}
+.app-features-span {
+  color: #333333;
+  font: 600 36px "Sora", sans-serif;
+}
+.app-features-span2 {
+  color: #e51d37;
+  font: 600 36px "Sora", sans-serif;
+}
+.app-features-span3 {
+  color: #333333;
+  font: 600 36px "Sora", sans-serif;
+}
+.envie-e-receba-dinheiro-de-forma-mais-pr-tica-e-r-pida-fa-a-pix-te-ds-e-transfer-ncias-com-agendamento-para-todos-os-bancos-sem-pagar-nada {
+  color: #646466;
+  text-align: left;
+  font: 400 18px/28px "Inter", sans-serif;
+  position: absolute;
+  left: 1003px;
+  top: 1350px;
+  width: 676px;
+  height: 56px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #e51d37;
+  border-width: 0.5px 0 0 0;
+  opacity: 0.10000000149011612;
+  width: 587px;
+  height: 0px;
+  position: absolute;
+  left: 992px;
+  top: 1565px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.line-2 {
+  border-style: solid;
+  border-color: #e51d37;
+  border-width: 0.5px 0 0 0;
+  opacity: 0.10000000149011612;
+  width: 587px;
+  height: 0px;
+  position: absolute;
+  left: 992px;
+  top: 1711px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum {
+  color: #646466;
+  text-align: left;
+  font: 400 14px "Inter", sans-serif;
+  position: absolute;
+  left: 1085px;
+  top: 1501.7px;
+  width: 491px;
+  height: 12.59px;
+}
+.dolor-sit-amet {
+  color: #333333;
+  text-align: left;
+  font: 500 18px/32px "Inter", sans-serif;
+  position: absolute;
+  left: 1085px;
+  top: 1474px;
+  width: 240px;
+  height: 22.66px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-75 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-41 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 60px;
+  height: 60.04px;
+  position: absolute;
+  left: 1003px;
+  top: 1463.5px;
+  box-shadow: var(
+    --shadowcolorprimary-box-shadow,
+    0px 8px 16px 0px rgba(229, 29, 55, 0.06)
+  );
+}
+.dollar-sign {
+  position: absolute;
+  left: 1015px;
+  top: 1475.51px;
+  overflow: visible;
+}
+.excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum2 {
+  color: #646466;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  position: absolute;
+  left: 1085px;
+  top: 1642.7px;
+  width: 491px;
+  height: 16.79px;
+}
+.dolor-sit-amet2 {
+  color: #333333;
+  text-align: left;
+  font: 500 18px/32px "Inter", sans-serif;
+  position: absolute;
+  left: 1085px;
+  top: 1615px;
+  width: 215px;
+  height: 22.66px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-76 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-42 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 60px;
+  height: 60.04px;
+  position: absolute;
+  left: 1003px;
+  top: 1607.59px;
+  box-shadow: 0px 9px 25px 0px rgba(229, 29, 55, 0.1);
+}
+.smartphone {
+  position: absolute;
+  left: 1015px;
+  top: 1619.6px;
+  overflow: visible;
+}
+.excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum3 {
+  color: #646466;
+  text-align: left;
+  font: 400 14px "Inter", sans-serif;
+  position: absolute;
+  left: 1085px;
+  top: 1791.7px;
+  width: 491px;
+  height: 11.75px;
+}
+.dolor-sit-amet3 {
+  color: #333333;
+  text-align: left;
+  font: 500 18px/32px "Inter", sans-serif;
+  position: absolute;
+  left: 1085px;
+  top: 1764px;
+  width: 184px;
+  height: 21.82px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-77 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-43 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 60px;
+  height: 60.04px;
+  position: absolute;
+  left: 1003px;
+  top: 1751.69px;
+  box-shadow: 0px 9px 25px 0px rgba(229, 29, 55, 0.1);
+}
+.smile {
+  position: absolute;
+  left: 1015px;
+  top: 1763.7px;
+  overflow: visible;
+}
+.feature-3 {
+  background: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 322px;
+  height: 284px;
+  position: absolute;
+  left: 446px;
+  top: 2338px;
+}
+.credit-card {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.title-text {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.title {
+  color: #333333;
+  text-align: left;
+  font: 400 18px/32px "Sora", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.text {
+  color: #333333;
+  text-align: left;
+  font: 400 14px/24px "Inter", sans-serif;
+  opacity: 0.75;
+  position: relative;
+  align-self: stretch;
+}
+.veja-as-op-es {
+  color: #e51d37;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: relative;
+}
+.feature-32 {
+  background: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 322px;
+  height: 284px;
+  position: absolute;
+  left: 800px;
+  top: 2338px;
+}
+.shopping-cart {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.conhe-a-os-investimentos {
+  color: #e51d37;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: relative;
+}
+.feature-33 {
+  background: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 322px;
+  height: 284px;
+  position: absolute;
+  left: 1154px;
+  top: 2338px;
+}
+.clock {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.feature-34 {
+  background: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 322px;
+  height: 284px;
+  position: absolute;
+  left: 798px;
+  top: 2651px;
+}
+.percent {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.como-funciona {
+  color: #e51d37;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: relative;
+}
+.feature-35 {
+  background: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 322px;
+  height: 284px;
+  position: absolute;
+  left: 1152px;
+  top: 2651px;
+}
+.gift {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.veja-como {
+  color: #e51d37;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: relative;
+}
+.feature-36 {
+  background: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 322px;
+  height: 284px;
+  position: absolute;
+  left: 444px;
+  top: 2651px;
+}
+.shield {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.conhe-a-as-seguran-as {
+  color: #e51d37;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+  position: relative;
+}
+.inova-o {
+  color: linear-gradient(
+    220.94deg,
+    rgba(235, 56, 80, 1) 0%,
+    rgba(203, 22, 46, 1) 100%
+  );
+  text-align: left;
+  font: 500 18px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 446px;
+  top: 2230px;
+  width: 106px;
+  height: 22px;
+}
+.quais-as-vantagens-de-usar-tesla-bank {
+  text-align: left;
+  font: 600 36px "Sora", sans-serif;
+  position: absolute;
+  left: 446px;
+  top: 2260px;
+  width: 716px;
+  height: 49px;
+}
+.quais-as-vantagens-de-usar-tesla-bank-span {
+  color: #333333;
+  font: 600 36px "Sora", sans-serif;
+}
+.quais-as-vantagens-de-usar-tesla-bank-span2 {
+  color: #e51d37;
+  font: 600 36px "Sora", sans-serif;
+}
+.quais-as-vantagens-de-usar-tesla-bank-span3 {
+  color: #333333;
+  font: 600 36px "Sora", sans-serif;
+}
+.uma-nova-experi-ncia-em-servi-os-financeiros-somos-digital-somos-tesla-bank {
+  text-align: left;
+  font: 600 48px/62px "Sora", sans-serif;
+  position: absolute;
+  left: 268px;
+  top: 3183px;
+  width: 801px;
+  height: 186px;
+}
+.uma-nova-experi-ncia-em-servi-os-financeiros-somos-digital-somos-tesla-bank-span {
+  color: #282421;
+  font: 600 48px/62px "Sora", sans-serif;
+}
+.uma-nova-experi-ncia-em-servi-os-financeiros-somos-digital-somos-tesla-bank-span2 {
+  color: #e51d37;
+  font: 600 48px/62px "Sora", sans-serif;
+}
+.uma-nova-experi-ncia-em-servi-os-financeiros-somos-digital-somos-tesla-bank-span3 {
+  color: #282421;
+  font: 600 48px/62px "Sora", sans-serif;
+}
+.donec-venenatis-at-turpis-at-ornare-pellentesque-a-quam-vel-dui-lacinia-dapibus-in-sit-amet-dolor {
+  color: #646466;
+  text-align: left;
+  font: 400 24px/38px "Inter", sans-serif;
+  opacity: 0.75;
+  position: absolute;
+  left: 268px;
+  top: 3409px;
+  width: 568px;
+  height: 76px;
+}
+.frame-1 {
+  background: linear-gradient(
+    220.94deg,
+    rgba(235, 56, 80, 1) 0%,
+    rgba(203, 22, 46, 1) 100%
+  );
+  border-radius: 4px;
+  padding: 18px 40px 18px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 60px;
+  position: absolute;
+  left: 182px;
+  top: 655px;
+}
+.group-90 {
+  flex-shrink: 0;
+  width: 194px;
+  height: 24px;
+  position: static;
+}
+.abrir-uma-conta {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 18px;
+}
+.arrow-right {
+  position: absolute;
+  left: 210px;
+  top: 18px;
+  overflow: visible;
+}
+.appnu-bgapp {
+  background: linear-gradient(
+    220.94deg,
+    rgba(235, 56, 80, 1) 0%,
+    rgba(203, 22, 46, 1) 100%
+  );
+  border-radius: 80px;
+  width: 378px;
+  height: 378px;
+  position: absolute;
+  left: 1274px;
+  top: 3224px;
+}
+.union {
+  position: absolute;
+  left: 268px;
+  top: 35.58px;
+  overflow: visible;
+}
+.group-311 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-822 {
+  background: #333333;
+  border-radius: 5px;
+  width: 200px;
+  height: 60.04px;
+  position: absolute;
+  left: 268px;
+  top: 3555.35px;
+}
+.group-310 {
+  width: 141px;
+  height: 42.03px;
+  position: static;
+}
+.apple-store {
+  color: #fbf9fc;
+  text-align: left;
+  font: 700 18px "Assistant", sans-serif;
+  position: absolute;
+  left: 345.34px;
+  top: 3583.01px;
+  width: 93.66px;
+  height: 24.02px;
+}
+.vector-40 {
+  position: absolute;
+  left: 298px;
+  top: 3568px;
+  overflow: visible;
+}
+.download-via {
+  color: #fbf9fc;
+  text-align: left;
+  font: 400 14px "Assistant", sans-serif;
+  position: absolute;
+  left: 345.34px;
+  top: 3565px;
+  width: 81.31px;
+  height: 18.01px;
+}
+.rectangle-8222 {
+  background: #333333;
+  border-radius: 5px;
+  width: 200px;
+  height: 60px;
+  position: absolute;
+  left: 500px;
+  top: 3555px;
+}
+.google-play {
+  color: #fbf9fc;
+  text-align: left;
+  font: 700 18px "Assistant", sans-serif;
+  position: absolute;
+  left: 577px;
+  top: 3582px;
+  width: 94px;
+  height: 24px;
+}
+.download-via2 {
+  color: #fbf9fc;
+  text-align: left;
+  font: 400 14px "Assistant", sans-serif;
+  position: absolute;
+  left: 577px;
+  top: 3564px;
+  width: 85px;
+  height: 18px;
+}
+.subtract {
+  position: absolute;
+  left: 531px;
+  top: 3568.35px;
+  overflow: visible;
+}
+.subtract3 {
+  position: absolute;
+  left: 566px;
+  top: 672px;
+  overflow: visible;
+}
+.vector-78 {
+  position: absolute;
+  left: 496px;
+  top: 666px;
+  overflow: visible;
+}
+.group-537 {
+  position: absolute;
+  inset: 0;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 1581px;
+  top: 48px;
+  width: 48px;
+  height: 27.02px;
+}
+.group-533 {
+  position: absolute;
+  left: 1641px;
+  top: 52px;
+  overflow: visible;
+}
+.tesla-bank2 {
+  color: #333333;
+  text-align: left;
+  font: 500 18px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 366px;
+  top: 48px;
+}
+.vector36 {
+  position: absolute;
+  left: 467px;
+  top: 58px;
+  overflow: visible;
+}
+.conta-digital {
+  color: #333333;
+  text-align: left;
+  font: 500 18px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 523px;
+  top: 48px;
+}
+.vector37 {
+  position: absolute;
+  left: 645px;
+  top: 58px;
+  overflow: visible;
+}
+.pra-voc {
+  color: #333333;
+  text-align: left;
+  font: 500 18px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 701px;
+  top: 48px;
+}
+.vector38 {
+  position: absolute;
+  left: 788px;
+  top: 58px;
+  overflow: visible;
+}
+.union2 {
+  position: absolute;
+  left: 1397px;
+  top: 3332.2px;
+  overflow: visible;
+}
+.rectangle-50 {
+  background: #ffffff;
+  width: 1920px;
+  height: 101px;
+  position: absolute;
+  left: 0px;
+  top: 3746px;
+}
+.powered-by {
+  color: #e51d37;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 1501px;
+  top: 3786px;
+}
+. {
+  color: #e51d37;
+  text-align: left;
+  font: 700 24px "Josefin Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1606px;
+  top: 3785px;
+  width: 28px;
+  height: 24px;
+}
